@@ -1140,7 +1140,7 @@ main()
 			printf("ex: q\n");
 		}
 		else {
-			printf("unknown command: %s input q to exit or help for commands\n",cmd);
+			printf("unknown command: %s input q to exit  or help for commands\n",cmd);
 		}
 	}
 }
